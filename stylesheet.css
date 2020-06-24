@@ -62,8 +62,14 @@ ul.nav {
     position: relative;
 }
 
+.main-container{
+    position: relative
+}
+
 .mainLogo {
-    position: relative;
+    position: absolute;
+    top: 50%;
+    left: 50%;
     width: 50%;
     display: block;
     margin-left: auto;
